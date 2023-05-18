@@ -24,3 +24,4 @@ Medium
 Hard
 18. [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) 
 19. __[42. Trapping Rain Water]__(https://leetcode.com/problems/trapping-rain-water/) 
+
