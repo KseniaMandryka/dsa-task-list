@@ -1,6 +1,6 @@
 ## Stack
 
-Easy
+### Easy
 1. [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 2. [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 3. [__20. Valid Parentheses__](https://leetcode.com/problems/valid-parentheses/description/)
@@ -9,7 +9,7 @@ Easy
 6. [__1700. Number of Students Unable to Eat Lunch__](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)
 7. [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 
-Medium  
+### Medium  
 8. [155. Min Stack](https://leetcode.com/problems/min-stack/)  
 9. [__150. Evaluate Reverse Polish Notation__](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)  
 10. [__71. Simplify Path__](https://leetcode.com/problems/simplify-path/description/)  
@@ -21,7 +21,7 @@ Medium
 16. [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)  
 17. [388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)  
 
-Hard  
+### Hard  
 18. [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)  
 19. [__42. Trapping Rain Water__](https://leetcode.com/problems/trapping-rain-water/)  
 
